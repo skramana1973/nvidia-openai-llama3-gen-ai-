@@ -17,7 +17,7 @@ conda activate nvidia-openai-llama3-gen-ai
 pip install -r requirements.txt
 ```
 
-### STEP 04- Finally run the following command
+### STEP 03- Finally run the following command
 
 ```bash
 python nvidia-openai-llama3-gen-ai.py
